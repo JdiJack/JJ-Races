@@ -1,10 +1,11 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/jj-races",
     "promos": {
-        "1.12.2-latest": "0.0.1",
-        "1.12.2-recommended": "0.0.1"
+        "1.12.2-latest": "0.0.2",
+        "1.12.2-recommended": "0.0.2"
     },
     "1.12.2": {
-        "0.0.1": "See https://minecraft.curseforge.com/projects/jj-races/files/2496437\n"
+        "0.0.1": "See https://minecraft.curseforge.com/projects/jj-races/files/2498794\n",
+        "0.0.2": "See https://minecraft.curseforge.com/projects/jj-races/files/2499243\n"
     }
 }
