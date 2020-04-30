@@ -10,12 +10,12 @@
         "1.10.1-recommended": "1.0.7",
         "1.10.2-latest": "1.0.7",
         "1.10.2-recommended": "1.0.7",
-        "1.12-latest": "1.0.13",
-        "1.12-recommended": "1.0.13",
-        "1.12.1-latest": "1.0.13",
-        "1.12.1-recommended": "1.0.13",
-        "1.12.2-latest": "1.0.13",
-        "1.12.2-recommended": "1.0.13"
+        "1.12-latest": "1.0.14",
+        "1.12-recommended": "1.0.14",
+        "1.12.1-latest": "1.0.14",
+        "1.12.1-recommended": "1.0.14",
+        "1.12.2-latest": "1.0.14",
+        "1.12.2-recommended": "1.0.14"
     },
     "1.10": {
         "1.0.7": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2560959\n"
@@ -36,7 +36,8 @@
         "1.0.7": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2561201\n",
         "1.0.11": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2912254\n",
         "1.0.12": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2913061\n",
-        "1.0.13": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2930690\n"
+        "1.0.13": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2930690\n",
+        "1.0.14": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2944417\n"
         
     },
     "1.12.1": {
@@ -49,7 +50,8 @@
         "1.0.7": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2561201\n",
         "1.0.11": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2912254\n",
         "1.0.12": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2913061\n",
-        "1.0.13": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2930690\n" 
+        "1.0.13": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2930690\n",
+        "1.0.14": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2944417\n" 
     },
     "1.12.2": {
         "0.0.1": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2498794\n",
@@ -65,6 +67,7 @@
         "1.0.7": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2561201\n",
         "1.0.11": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2912254\n",
         "1.0.12": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2913061\n",
-        "1.0.13": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2930690\n"       
+        "1.0.13": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2930690\n",
+        "1.0.14": "See https://www.curseforge.com/minecraft/mc-mods/jj-races/files/2944417\n"       
     }
 }
